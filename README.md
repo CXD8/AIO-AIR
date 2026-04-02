@@ -63,6 +63,7 @@ Bill Of Materials
 | 48 | POWER1 | NIL | POWER | https://www.aliexpress.com/item/1005009258276115.html | 1 |
 | 49 | Q1 | SI1308EDL-T1-BE3 | SOT-323_L2.0-W1.3-P1.30-LS2.1-BR | C3289597 | 1 |
 | 50 | NIL | GooDisply E-Ink Display | NIL | https://www.aliexpress.com/item/1005009258276115.html | 1 |
+| 50 | NIL | FPC EXT CABLE/S REQ. DEPEND ON DISPLAY MODEL | NIL | https://www.aliexpress.com/item/1005008474655738.html | 1 |
 
 
 Changelog\
