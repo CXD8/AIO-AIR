@@ -1,11 +1,26 @@
 # AIO-AIR
-Project Overview\
+**Project Overview**\
 This is a compact, custom air quality monitor built around the ESP32-S3. I designed it to be an all-in-one solution for tracking environmental data, giving me a much better understanding of the air quality in my workspace.\
-How to Use\
+## Disclaimer
+- **This project is intended for educational and research purposes only**
+- **The author accepts no liability for regulatory non-compliance resulting from use of this project**
+- **Users are solely responsible for ensuring compliance with all applicable local laws and regulations**
+This project is provided **as-is, with absolutely no warranty of any kind**, express or implied. The author(s) accept **zero responsibility or liability** for any outcome resulting from the use, assembly, or operation of this hardware - including but not limited to property damage, fire, personal injury, or death.
+
+**Use entirely at your own risk. The author(s) have no responsibility whatsoever for anything that goes wrong.**
+- **Regulatory Disclaimer**
+This project may use uncertified radio frequency (RF) modules. These components may have not been independently tested or certified for compliance such as for FCC (USA), CE (EU), or any other regulatory framework.
+ard.**. The author(s) accept no responsibility for any damage, injury, or death caused.
+- **No certification.** This design has not been tested, certified, or approved for any commercial, consumer, safety-critical, or regulatory-controlled application.
+- **No guarantees.** The author(s) make no guarantees regarding the accuracy or fitness for purpose of the schematic, BOM, firmware, or any associated documentation.
+**By using, building, or operating this project in any form, you accept full and sole responsibility for all risks and any consequences that arise.**
+By using this project in any form, you agree to assume all associated risks and responsibilities.
+
+**How to Use**\
 Flashing: No integrated flashing chip. You can use your choice of flashing device eg FT or CH chipsets, connect them respectively on the PCB.\
 Integration: The device is built to talk directly to Home Assistant via ESPHome/MQTT. Once you flash the firmware, it will show up as a sensor entity on your dashboard. \
 Features: You can view real-time data on your dashboard or through the low power e ink display. Optional fan with control and speed, status etc. Flexible desing, connect any device to the respective power, uart or spi pins.\
-Why I Built This\
+**Why I Built This**\
 Many makers do soldering, 3D printing, and working with various materials in an enclosed space. Like many of you, I realised that standard, off-the-shelf air quality sensors often lack the accuracy. I got tired of guessing if my ventilation was sufficient, so I designed this board to get accurate, reliable readings so I can actually manage the air quality while I work. Also for monitoring Co2 because sleep is important :) |
 
 ![PCB_VIEW](https://github.com/CXD8/AIO-AIR/blob/d9f0ef8f0c7aa8631149ac495b6f79424e3bea27/Images/AIO-AIR_PCB_VIEW.png) \
