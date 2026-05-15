@@ -17,7 +17,7 @@ ard.**. The author(s) accept no responsibility for any damage, injury, or death 
 By using this project in any form, you agree to assume all associated risks and responsibilities.
 
 **How to Use**\
-Flashing: No integrated flashing chip. You can use your choice of flashing device eg FT or CH chipsets, connect them respectively on the PCB.\
+Flashing: No integrated usb flashing feature. You can use your choice of usb flashing device eg FT or CH chipsets, connect them respectively on the PCB via the headers. Copy firmware into Ardiuno IDE or preffered flashing software, then flash directly.\
 Integration: The device is built to talk directly to Home Assistant via ESPHome/MQTT. Once you flash the firmware, it will show up as a sensor entity on your dashboard. \
 Features: You can view real-time data on your dashboard or through the low power e ink display. Optional fan with control and speed, status etc. Flexible desing, connect any device to the respective power, uart or spi pins.\
 **Why I Built This**\
