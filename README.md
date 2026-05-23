@@ -81,6 +81,8 @@ Bill Of Materials
 | 50 | NIL | FPC EXT CABLE/S REQ. DEPEND ON DISPLAY MODEL | NIL | https://www.aliexpress.com/item/1005008474655738.html | 1 |
 
 
+![PCB_VIEW](https://github.com/CXD8/AIO-AIR/blob/7b486d437ccf20f6e78614c877900391e9aee149/Schematics/AIO-AIR_Schematic.PNG)
+
 Changelog\
 03/31/2026
 Optimise PCB size under 100mmx100mm for cheaper fabrication costs
