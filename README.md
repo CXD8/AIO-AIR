@@ -1,5 +1,5 @@
 # AIO-AIR
-![PCB_VIEW](https://github.com/CXD8/AIO-AIR/blob/442d3a2c24b7729bdd5bd9ca3a3a449f0069b106/Images/AIO-AIR-fallout-zine-2026.png) \
+![Poster](https://github.com/CXD8/AIO-AIR/blob/442d3a2c24b7729bdd5bd9ca3a3a449f0069b106/Images/AIO-AIR-fallout-zine-2026.png) \
 **Project Overview**\
 This is a compact, custom air quality monitor built around the ESP32-S3. I designed it to be an all-in-one solution for tracking environmental data, giving me a much better understanding of the air quality in my workspace.\
 ## Disclaimer
