@@ -23,7 +23,7 @@ Integration: The device is built to talk directly to Home Assistant via ESPHome/
 Features: You can view real-time data on your dashboard or through the low power e ink display. Optional fan with control and speed, status etc. Flexible desing, connect any device to the respective power, uart or spi pins.\
 
 **Why I Built This**\
-Many makers do soldering, 3D printing, and working with various materials in an enclosed space. Like many of you, I realised that standard, off-the-shelf air quality sensors often lack the accuracy. I got tired of guessing if my ventilation was sufficient, so I designed this board to get accurate, reliable readings so I can actually manage the air quality while I work. Also for monitoring Co2 because sleep is important :) |
+Many makers do soldering, 3D printing, and working with various materials in an enclosed space.I designed this board to get accurate, reliable readings so I can actually manage the air quality while I work. Also for monitoring Co2 because sleep is important :) |
 ![PCB_VIEW](https://github.com/CXD8/AIO-AIR/blob/d9f0ef8f0c7aa8631149ac495b6f79424e3bea27/Images/AIO-AIR_PCB_VIEW.png) \
 
 Bill Of Materials
@@ -94,5 +94,5 @@ Changelog\
 06/30/2026
 New Housing/Case. Improved viewing angles, fits larger sensors, looks much better.
 03/31/2026
-Optimise PCB size under 100mmx100mm for cheaper fabrication costs
+Optimise PCB size under 100mmx100mm for cheaper fabrication costs.
 ![PCB_VIEW](https://github.com/CXD8/AIO-AIR/blob/35fe1c208ec2587569fe9ce43633ebf8abe6ec37/Images/AIO-AIR-v1.1.0-3D-VIEW.PNG)
